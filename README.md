@@ -195,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Follow me on Twitter](https://twitter.com/jgarnz) - garnsejo@mail.gvsu.edu
+Your Name - [Follow me on Twitter](https://twitter.com/jgarnz) - [Send me an Email](garnsejo@mail.gvsu.edu)
 
 Project Link: [https://github.com/johng32/encrypt](https://github.com/johng32/encrypt)
 
