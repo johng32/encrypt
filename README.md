@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/johng32/encrypt">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="encryptLogo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Folder Encryption</h3>
