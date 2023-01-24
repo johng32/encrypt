@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Folder Encryption</h3>
 
   <p align="center">
     project_description
@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/johng32/encrypt](https://github.com/johng32/encrypt)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
