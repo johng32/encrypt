@@ -37,7 +37,7 @@
 <h3 align="center">Folder Encryption</h3>
 
   <p align="center">
-    project_description
+    This application will easily encrypt your folders! Upon Installation, This is done via the windows right-click menu.
     <br />
     <a href="https://github.com/johng32/encrypt"><strong>Explore the docs »</strong></a>
     <br />
